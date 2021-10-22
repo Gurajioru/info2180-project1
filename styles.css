@@ -162,11 +162,81 @@ header > .container{
     color:white;
 }
 
+.stories > .container > h2{
+    color:#5A67D8;
+    font-size: 24px;
+}
 
+.article-body > p > a{
+    text-decoration: none;
+    color:#5A67D8;
+    
+}
 
+.stories > .container > article > img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    padding-right: 20px;
+    float:left;
+}
 
+.stories > .container >article{
 
+    padding-bottom: 20px;
+}
 
+.newsletter{
+    background-color: #48BB78;
+    color:white;
+    height:250px;
+    
+}
 
+.newsletter > div{
+    padding-top:15px;
+    text-align:center;
+    /*justify-content:center;*/
+    /*align-content:center;
+    align-items:center;*/
+}
+
+.newsletter > .container > form{
+    
+    
+}
+
+.newsletter > .container > form > button{
+    background-color:#5A67D8;
+    display:inline-block;
+    border:none;
+    /*height:30px;
+    width:40px;*/
+}
+
+.form-group{
+    display:inline-block;
+    /*height:30px;
+    width:47px;*/
+}
+
+footer{
+    display:flex;
+    background-color: #4A5568;
+    color:white;
+    height:75px;
+    padding-top: none;
+}
+
+header > .container > h1{
+    font-size:18px;
+}
+
+.message{
+    padding-top:10px;
+    position:relative;
+    text-align: center;
+
+}
 
 
